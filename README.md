@@ -59,7 +59,7 @@ Integrated model should outperform standalone acoustic models.
 Language model reduces context-related transcription errors.
 Dashboards and visualizations demonstrate improved performance clearly.
 
-TIttle:Building an End-to-End Speech Recognition Pipeline: Signal Processing, Acoustic Modeling, and Performance Evaluation
+3.TIttle:Building an End-to-End Speech Recognition Pipeline: Signal Processing, Acoustic Modeling, and Performance Evaluation
 
 Project Summary: Noise-Robust Speech Recognition Pipeline
 
